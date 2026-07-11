@@ -117,4 +117,4 @@ A real-time system monitoring application that analyzes system resources and pre
 
 ## 💡 Motto
 
-> **I love building real-world software solutions that solve practical problems, create meaningful impact, and continuously challenge me to grow as a developer.**
+> **I love building software that matters.**
