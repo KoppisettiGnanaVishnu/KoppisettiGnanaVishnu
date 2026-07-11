@@ -43,19 +43,6 @@
 
 # 🚀 Featured Projects
 
-## 🍽️ E-Canteen Application
-
-A cross-platform mobile application built using Flutter and Firebase for campus food ordering and management.
-
-### Features
-- Secure user authentication using Firebase
-- Real-time menu management with Cloud Firestore
-- Shopping cart and order management
-- Cross-platform support for Android, iOS, macOS, and Web
-
-**Tech Stack:** Flutter • Dart • Firebase • Firestore • REST APIs
-
----
 
 ## 🤖 Tracr — GitHub AI Code Review & Accountability Platform
 
@@ -69,6 +56,19 @@ An AI-assisted GitHub platform that automates code review and analyzes repositor
 - GitHub Push & Pull Request event integration
 
 **Tech Stack:** Node.js • Express.js • SQLite • GitHub Webhooks • Octokit • REST APIs • Render
+
+---
+## 🍽️ E-Canteen Application
+
+A cross-platform mobile application built using Flutter and Firebase for campus food ordering and management.
+
+### Features
+- Secure user authentication using Firebase
+- Real-time menu management with Cloud Firestore
+- Shopping cart and order management
+- Cross-platform support for Android, iOS, macOS, and Web
+
+**Tech Stack:** Flutter • Dart • Firebase • Firestore • REST APIs
 
 ---
 
