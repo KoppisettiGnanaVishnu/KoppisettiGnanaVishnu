@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gnana Vishnu</h1>
-<h3 align="center">C++ & DSA | Software Development | Data Analytics & Machine Learning</h3>
+<h3 align="center">Software Developer | Flutter Developer | C++ & DSA Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/KoppisettiGnanaVishnu">
@@ -11,12 +11,12 @@
 
 ## 🚀 About Me
 
-- 🎓 Third-year B.Tech CSE Student
-- 💻 Actively learning and practicing **C++ & Data Structures and Algorithms**
-- 🧩 Strong foundation in **OOP, DBMS, Operating Systems**
-- 📊 Interested in **Data Analytics, Machine Learning, and Predictive Modeling**
-- 🌱 Currently learning **System Design & Backend Development**
-- ⚡ Passionate about building scalable and impactful solutions
+- 🎓 Third-year B.Tech Computer Science Engineering student
+- 💻 Passionate about **Software Development, Flutter, and Backend Development**
+- 🧩 Strong foundation in **C++, Data Structures & Algorithms, OOP, DBMS, Operating Systems, and Computer Networks**
+- 📱 Experienced in building cross-platform mobile applications using **Flutter** and **Firebase**
+- 🌱 Currently learning **System Design, Backend Engineering, and Scalable Software Architecture**
+- ⚡ Love building real-world solutions that solve practical problems and create meaningful impact.
 
 ---
 
@@ -27,12 +27,12 @@
 <img src="https://skillicons.dev/icons?i=cpp,java,python,c,javascript,dart" />
 </p>
 
-### Technologies & Tools
+### Frameworks & Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=flutter,firebase,nodejs,express,mysql,sqlite,git,github,vscode" />
 </p>
 
-### Data Analytics & ML
+### Data Analytics
 - Power BI
 - Pandas
 - NumPy
@@ -41,35 +41,48 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🍽️ E-Canteen Application
-- User authentication and account management
-- Dynamic menu browsing and cart functionality
-- Real-time menu integration using Firebase
-- Cross-platform mobile application
+## 🍽️ E-Canteen Application
 
-**Tech:** Flutter, Dart, Firebase, REST APIs
+A cross-platform mobile application built using Flutter and Firebase for campus food ordering and management.
 
----
+### Features
+- Secure user authentication using Firebase
+- Real-time menu management with Cloud Firestore
+- Shopping cart and order management
+- Cross-platform support for Android, iOS, macOS, and Web
 
-### 📊 Indian Energy Exchange (IEX) Analytics Dashboard
-- Interactive Power BI dashboard
-- Dynamic KPIs using DAX
-- Electricity market trend analysis
-- Demand and pricing insights
-
-**Tech:** Power BI, Power Query, DAX
+**Tech Stack:** Flutter • Dart • Firebase • Firestore • REST APIs
 
 ---
 
-### 💻 OS Resource Monitor & Bottleneck Predictor
-- Real-time CPU, Memory, Disk, and Network monitoring
-- Predictive bottleneck detection
+## 🤖 Tracr — GitHub AI Code Review & Accountability Platform
+
+An AI-assisted GitHub platform that automates code review and analyzes repository changes using GitHub Webhooks and REST APIs.
+
+### Features
+- Automated AI code review for Pull Requests
+- Repository risk analysis and reporting
+- Security-sensitive code detection
+- Trust Score (0–100) for AI-generated code
+- GitHub Push & Pull Request event integration
+
+**Tech Stack:** Node.js • Express.js • SQLite • GitHub Webhooks • Octokit • REST APIs • Render
+
+---
+
+## 💻 OS Resource Monitor & Bottleneck Predictor
+
+A real-time system monitoring application that analyzes system resources and predicts performance bottlenecks.
+
+### Features
+- CPU, Memory, Disk, and Network monitoring
+- Bottleneck detection
 - Performance optimization suggestions
 - System analytics dashboard
 
-**Tech:** Python, Pandas, NumPy, Matplotlib, Scikit-Learn
+**Tech Stack:** Python • Pandas • NumPy • Matplotlib • Scikit-Learn
 
 ---
 
@@ -81,19 +94,6 @@
 - The Bits and Bytes of Computer Networking
 - Software Engineering: Implementation and Testing
 - Responsive Web Design
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KoppisettiGnanaVishnu&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoppisettiGnanaVishnu&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KoppisettiGnanaVishnu&theme=tokyonight" />
-</p>
 
 ---
 
@@ -115,6 +115,6 @@
 
 ---
 
-### 💡 Motto
+## 💡 Motto
 
-> Building solutions that are simple, scalable, and impactful.
+> **I love building real-world software solutions that solve practical problems, create meaningful impact, and continuously challenge me to grow as a developer.**
