@@ -151,15 +151,8 @@ Flutter • Dart • Firebase • Firestore • REST APIs
 - Scalable Backend Architecture
 - Distributed Systems
 
----
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KoppisettiGnanaVishnu&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KoppisettiGnanaVishnu&layout=compact)
-
----
 
 ## 🌐 Connect With Me
 
