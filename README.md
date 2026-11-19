@@ -1,167 +1,163 @@
-# Hi 👋, I'm Gnana Vishnu
+<!-- ===================== ANIMATED HEADER ===================== -->
 
-### Software Engineer | Full Stack Developer | C++ & DSA Enthusiast
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=600&color=EC1C24&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Gnana+Vishnu+%F0%9F%91%8B;Tech+Enthusiast;Final-Year+B.Tech+CSE;Always+Building+%26+Learning;Open+to+SDE+%2F+Internship+Roles" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/KoppisettiGnanaVishnu">
+  <img src="https://komarev.com/ghpvc/?username=KoppisettiGnanaVishnu&color=ec1c24&style=flat-square&label=Profile+Views" alt="profile views" />
+</a>
+<a href="https://github.com/KoppisettiGnanaVishnu?tab=followers">
+  <img src="https://img.shields.io/github/followers/KoppisettiGnanaVishnu?label=Followers&style=flat-square&color=ec1c24" alt="followers" />
+</a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+<!-- ===================== ABOUT ===================== -->
 
-- 🎓 Third-year B.Tech Computer Science Engineering student
-- 💻 Passionate about Software Engineering, Full Stack Development, Backend Systems, and Cloud Technologies
-- 🧩 Strong foundation in C++, Data Structures & Algorithms, OOP, DBMS, Operating Systems, and Computer Networks
-- 🌐 Experienced in building end-to-end applications across web, cloud, analytics, and mobile platforms
-- ☁️ Interested in System Design, Distributed Systems, Backend Engineering, and Scalable Architectures
-- ⚡ Love building practical software that solves real-world problems and delivers measurable impact
+## 👨‍💻 About Me
+
+```python
+class GnanaVishnu:
+    def __init__(self):
+        self.degree        = "B.Tech CSE — Final Year"
+        self.college       = "Lovely Professional University"
+        self.cgpa          = "7.68"
+        self.focus         = ["Python", "Software Engineering", "REST APIs", "AI / RAG"]
+        self.fundamentals  = ["DSA", "OOP", "DBMS", "OS", "Computer Networks"]
+        self.data_stack    = ["Pandas", "NumPy", "scikit-learn", "Power BI"]
+        self.open_to       = ["SDE", "Internships", "New-Grad Roles"]
+
+    def build(self, idea):
+        return ship_end_to_end(idea)   # backend → data → clean interface
+```
+
+- 🧩 Strong CS fundamentals — **Data Structures & Algorithms, OOP, DBMS, OS, Networks**
+- 🤖 Currently building in the **RAG / local-LLM** space (retrieval, embeddings, grounded generation)
+- 💡 I like shipping **end-to-end** systems, not just prototypes
+- 🟢 **Open to SDE / internships and new-grad roles**
 
 ---
+
+<!-- ===================== TECH STACK ===================== -->
 
 ## 🛠️ Tech Stack
 
-### Languages
+<div align="center">
 
-- C++
-- Python
-- Java
-- JavaScript
-- TypeScript
-- SQL
-- Dart
+| **Languages** | **Backend** | **AI / Data** | **Tools** |
+|:---:|:---:|:---:|:---:|
+| Python · C++ · Java | FastAPI · Node.js · Express | sentence-transformers · Ollama | Git · GitHub · Actions |
+| JavaScript · TypeScript | REST APIs · SQLite · SQLAlchemy | scikit-learn · Pandas · NumPy | Postman · Render · Vercel |
+| SQL | | Power BI · Matplotlib | VS Code |
 
-### Frontend
-
-- React
-- Next.js
-- TypeScript
-- Tailwind CSS
-- ShadCN UI
-- Flutter
-
-### Backend
-
-- FastAPI
-- Node.js
-- Express.js
-- REST APIs
-- SQLAlchemy
-- SQLite
-- Firebase
-
-### Data & Analytics
-
-- Power BI
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
-
-### Tools & Platforms
-
-- Git
-- GitHub
-- Postman
-- VS Code
-- Vercel
-- Render
-- Firebase
+</div>
 
 ---
 
-# 🚀 Featured Projects
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
-## 🤖 Tracr — GitHub AI Code Review & Accountability Platform
+## ⭐ Featured Projects
 
-An AI-assisted GitHub platform that automates code review, analyzes repository changes, and improves engineering accountability through intelligent repository insights.
+<a href="https://github.com/KoppisettiGnanaVishnu/tracr">
+  <img align="right" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=KoppisettiGnanaVishnu&repo=tracr&bg_color=0d1117&title_color=ec1c24&text_color=c9d1d9&icon_color=ec1c24&border_color=30363d" />
+</a>
 
-### Features
+### 🔍 Tracr — GitHub AI Code Review & Accountability Platform
+A **GitHub App** that automates Pull Request analysis and security review of AI-assisted code changes.
+- Detects security-sensitive patterns — hard-coded credentials, API keys, auth risks, unsafe SQL
+- **0–100 Trust Score** + line-level review comments posted directly onto PRs
+- Built on **GitHub Webhooks + Octokit REST API**
 
-- Automated AI code review for Pull Requests
-- Repository risk analysis and reporting
-- Security-sensitive code detection
-- Trust Score (0–100) for AI-generated code
-- GitHub Push & Pull Request event integration
-- Engineering productivity insights
+`Node.js` `Express` `SQLite` `Octokit` `GitHub Webhooks`
 
-**Tech Stack:**  
-Node.js • Express.js • SQLite • GitHub Webhooks • Octokit • REST APIs • Render
+<br clear="right"/>
 
-🔗 Repository: https://github.com/KoppisettiGnanaVishnu/Tracr
+<a href="https://github.com/KoppisettiGnanaVishnu/Stitch-rag">
+  <img align="right" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=KoppisettiGnanaVishnu&repo=Stitch-rag&bg_color=0d1117&title_color=ec1c24&text_color=c9d1d9&icon_color=ec1c24&border_color=30363d" />
+</a>
 
----
+### 🧵 Stitch — Enterprise Document Intelligence (RAG)
+A fully local **Retrieval-Augmented Generation** system that answers questions **strictly from your documents** (PDF / DOCX / TXT), citing the exact source and page every time.
+- Sentence chunking + transformer embeddings + a **persistent vector store** with similarity &amp; MMR ranking
+- **Trust layer** scoring confidence / groundedness / completeness, **refusing without evidence** — 100% refusal accuracy on benchmarks
+- Test coverage with `pytest` · **CI on every push**
 
-## 🌐 Orion DNS — AWS Route53 Inspired DNS Management Platform
+`Python` `FastAPI` `sentence-transformers` `Ollama` `NumPy` `pytest`
 
-A production-ready DNS management platform inspired by AWS Route53 that enables users to manage hosted zones, configure DNS records, monitor health checks, and visualize DNS infrastructure.
+<br clear="right"/>
 
-### Features
+### 📉 Customer Churn Analytics Platform
+End-to-end churn prediction & analytics pipeline.
+`Python` `SQL` `scikit-learn` `Power BI` → https://github.com/KoppisettiGnanaVishnu/Customer-Churn-Analytics-Platform
 
-- Hosted Zone Management
-- DNS Record CRUD Operations
-- Health Check Monitoring
-- Infrastructure Dashboard
-- Search & Filtering
-- Authentication & Protected Routes
-- Responsive Route53-Inspired UI
-- Cloud Deployment on Vercel & Render
-
-**Tech Stack:**  
-FastAPI • Next.js • TypeScript • SQLite • SQLAlchemy • ShadCN UI • Vercel • Render
-
-🔗 Repository: https://github.com/KoppisettiGnanaVishnu/Orion
-
-🌍 Live Demo: https://orion-lyart-phi.vercel.app
+### ⚙️ AI-Powered OS Process Performance Analyzer
+Real-time monitoring, analysis and optimization of OS processes.
+`Python` → https://github.com/KoppisettiGnanaVishnu/AI-powered-performance-Analyzer-for-OS-Processes
 
 ---
 
-## 🍽️ E-Canteen Application
-
-A cross-platform food ordering and management platform designed for campus environments using Flutter and Firebase.
-
-### Features
-
-- Secure user authentication
-- Real-time menu management
-- Cloud Firestore integration
-- Cart & Order Management
-- Cross-platform support
-
-**Tech Stack:**  
-Flutter • Dart • Firebase • Firestore • REST APIs
-
-🔗 Repository: https://github.com/KoppisettiGnanaVishnu/e_canteen_app
-
----
+<!-- ===================== CERTIFICATIONS ===================== -->
 
 ## 📜 Certifications
 
-- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
-- Cloud Computing (NPTEL)
-- Computational Theory: Language Principles & Finite Automata Theory
-- The Bits and Bytes of Computer Networking
-- Software Engineering: Implementation and Testing
-- Responsive Web Design
+| Certification | Issuer | Date |
+|:---|:---|:---:|
+| **OCI 2025 — AI Foundations Associate** | Oracle | Feb 2026 |
+| Cloud Computing | NPTEL | Apr 2025 |
+| Computational Theory & Finite Automata | Infosys | Aug 2025 |
+| Bits and Bytes of Computer Networking | Coursera | Sep 2024 |
+| Software Engineering: Implementation & Testing | Coursera | May 2024 |
 
 ---
+
+<!-- ===================== LEARNING ===================== -->
 
 ## 🌱 Currently Learning
 
-- Advanced Data Structures & Algorithms
-- System Design
-- Cloud Computing
-- AWS Services
-- Scalable Backend Architecture
-- Distributed Systems
-
-
-
-
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/KoppisettiGnanaVishnu
-- LinkedIn: https://www.linkedin.com/in/vishnugnana/
-- Email: vishnugnana26@gmail.com
+`Advanced DSA` · `System Design` · `Scalable Backend Architecture` · `Cloud & Distributed Systems`
 
 ---
 
-## 💡 Motto
+<!-- ===================== STATS ===================== -->
 
-> I LOVE BUILDING SOFTWARE THAT MATTERS...
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KoppisettiGnanaVishnu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=ec1c24&text_color=c9d1d9&icon_color=ec1c24&ring_color=ec1c24" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoppisettiGnanaVishnu&layout=compact&hide_border=true&bg_color=0d1117&title_color=ec1c24&text_color=c9d1d9" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=KoppisettiGnanaVishnu&hide_border=true&background=0d1117&stroke=30363d&ring=ec1c24&fire=ec1c24&currStreakLabel=ec1c24&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=KoppisettiGnanaVishnu&theme=onedark&no-frame=true&no-bg=true&column=7" />
+
+</div>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vishnugnana/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vishnugnana26@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/KoppisettiGnanaVishnu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
+
+---
+
+<div align="center">
+  <i>“I love building software that matters.”</i>
+</div>
