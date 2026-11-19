@@ -1,57 +1,94 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 615" width="100%" font-family="'Fira Code','SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace">
-<rect x="16" y="16" width="968" height="583" rx="14" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
-<path d="M30 16 H970 A14 14 0 0 1 984 30 V62 H16 V30 A14 14 0 0 1 30 16 Z" fill="#161B22"/>
-<line x1="16" y1="62" x2="984" y2="62" stroke="#30363D"/>
-<circle cx="44" cy="39" r="6" fill="#F85149"/>
-<circle cx="64" cy="39" r="6" fill="#FFB454"/>
-<circle cx="84" cy="39" r="6" fill="#3FB950"/>
-<text x="110" y="44" font-size="13" fill="#8B949E">gnana@github: <tspan fill="#C9D1D9">~/profile</tspan><tspan fill="#EC1C24"> #</tspan></text>
-<line x1="498" y1="84" x2="498" y2="561" stroke="#21262D"/>
-<rect x="46" y="82" width="4" height="17" rx="1.5" fill="#EC1C24"/>
-<text x="60" y="96" font-size="15" font-weight="700" fill="#E6EDF3">SYS_INFO</text>
-<text x="46" y="122" font-size="13"><tspan fill="#FFB454">.name</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">Koppisetti Gnana Vishnu</tspan></text>
-<text x="46" y="143" font-size="13"><tspan fill="#FFB454">.status</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#3FB950">Tech Enthusiast · Open to SDE roles</tspan></text>
-<text x="46" y="164" font-size="13"><tspan fill="#FFB454">.education</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">B.Tech CSE · LPU · CGPA 7.68</tspan></text>
-<text x="46" y="185" font-size="13"><tspan fill="#FFB454">.focus</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">Python · Backend · REST APIs · AI / RAG</tspan></text>
-<rect x="46" y="206" width="4" height="17" rx="1.5" fill="#EC1C24"/>
-<text x="60" y="220" font-size="15" font-weight="700" fill="#E6EDF3">SPECIALIZATION</text>
-<text x="46" y="246" font-size="13"><tspan fill="#EC1C24">▪ </tspan><tspan fill="#C9D1D9">backend engineering &amp; REST services</tspan></text>
-<text x="46" y="266" font-size="13"><tspan fill="#EC1C24">▪ </tspan><tspan fill="#C9D1D9">retrieval-augmented generation (RAG)</tspan></text>
-<text x="46" y="286" font-size="13"><tspan fill="#EC1C24">▪ </tspan><tspan fill="#C9D1D9">data structures &amp; algorithms</tspan></text>
-<text x="46" y="306" font-size="13"><tspan fill="#EC1C24">▪ </tspan><tspan fill="#C9D1D9">data pipelines &amp; analytics</tspan></text>
-<rect x="46" y="326" width="4" height="17" rx="1.5" fill="#EC1C24"/>
-<text x="60" y="340" font-size="15" font-weight="700" fill="#E6EDF3">STACK</text>
-<text x="46" y="366" font-size="13"><tspan fill="#FFB454">.languages</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">Python · C++ · Java · JavaScript</tspan></text>
-<text x="46" y="387" font-size="13"><tspan fill="#FFB454">.backend</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">FastAPI · Node.js · Express · SQLite</tspan></text>
-<text x="46" y="408" font-size="13"><tspan fill="#FFB454">.ai_data</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">sentence-transformers · Ollama · scikit-learn</tspan></text>
-<text x="46" y="429" font-size="13"><tspan fill="#FFB454">.tooling</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">Git · GitHub Actions · pytest</tspan></text>
-<rect x="46" y="450" width="4" height="17" rx="1.5" fill="#EC1C24"/>
-<text x="60" y="464" font-size="15" font-weight="700" fill="#E6EDF3">CONTACT</text>
-<text x="46" y="490" font-size="13"><tspan fill="#FFB454">LinkedIn</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">/in/vishnugnana</tspan></text>
-<text x="46" y="511" font-size="13"><tspan fill="#FFB454">Email</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">vishnugnana26@gmail.com</tspan></text>
-<text x="46" y="532" font-size="13"><tspan fill="#FFB454">GitHub</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">@KoppisettiGnanaVishnu</tspan></text>
-<rect x="520" y="82" width="4" height="17" rx="1.5" fill="#EC1C24"/>
-<text x="534" y="96" font-size="15" font-weight="700" fill="#E6EDF3">CURRENT_BUILD</text>
-<text x="520" y="122" font-size="13"><tspan fill="#FFB454">.project</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">Stitch — Document Intelligence (RAG)</tspan></text>
-<text x="520" y="143" font-size="13"><tspan fill="#FFB454">.stack</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">Python · FastAPI · sentence-transformers · Ollama</tspan></text>
-<text x="520" y="164" font-size="13"><tspan fill="#FFB454">.highlight</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#3FB950">cited answers · 100% refusal accuracy</tspan></text>
-<text x="520" y="185" font-size="13"><tspan fill="#FFB454">.testing</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">28 tests · CI on every push</tspan></text>
-<rect x="520" y="206" width="4" height="17" rx="1.5" fill="#EC1C24"/>
-<text x="534" y="220" font-size="15" font-weight="700" fill="#E6EDF3">FEATURED_PROJECTS</text>
-<text x="520" y="246" font-size="13"><tspan fill="#FFB454">01</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">Tracr — AI code-review GitHub App  (Node.js)</tspan></text>
-<text x="520" y="267" font-size="13"><tspan fill="#FFB454">02</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">Stitch — local RAG with citations  (Python)</tspan></text>
-<text x="520" y="288" font-size="13"><tspan fill="#FFB454">03</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">Churn Analytics — ML pipeline  (Python)</tspan></text>
-<text x="520" y="309" font-size="13"><tspan fill="#FFB454">04</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">OS Perf Analyzer — realtime monitoring  (Python)</tspan></text>
-<rect x="520" y="330" width="4" height="17" rx="1.5" fill="#EC1C24"/>
-<text x="534" y="344" font-size="15" font-weight="700" fill="#E6EDF3">GITHUB_TELEMETRY</text>
-<text x="520" y="370" font-size="13"><tspan fill="#FFB454">.public_repos</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">18</tspan></text>
-<text x="520" y="391" font-size="13"><tspan fill="#FFB454">.top_langs</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">JavaScript · Python · TypeScript</tspan></text>
-<text x="520" y="412" font-size="13"><tspan fill="#FFB454">.ci</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#3FB950">GitHub Actions ✓</tspan></text>
-<rect x="520" y="433" width="4" height="17" rx="1.5" fill="#EC1C24"/>
-<text x="534" y="447" font-size="15" font-weight="700" fill="#E6EDF3">LEARNING_NOW</text>
-<text x="520" y="473" font-size="13"><tspan fill="#FFB454">.topics</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">System Design · Advanced DSA · Distributed Systems</tspan></text>
-<line x1="16" y1="567" x2="984" y2="567" stroke="#30363D"/>
-<circle cx="51" cy="581" r="4" fill="#3FB950"/>
-<text x="64" y="585" font-size="12" fill="#8B949E">all systems operational</text>
-<text x="520" y="585" font-size="12" fill="#8B949E">gnana@github:~$ <tspan fill="#EC1C24">█</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="100%">
+<defs><linearGradient id="av" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#EC1C24"/><stop offset="1" stop-color="#8B0000"/></linearGradient></defs>
+<rect x="24" y="24" width="612" height="168" rx="18" fill="#161B22" stroke="#30363D" stroke-width="1.2"/>
+<circle cx="88" cy="108" r="42" fill="url(#av)"/>
+<text x="88" y="117" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#FFFFFF" text-anchor="middle">GV</text>
+<text x="152" y="82" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="27" font-weight="800" fill="#F0F6FC" text-anchor="start">Gnana Vishnu</text>
+<text x="152" y="108" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="400" fill="#8B949E" text-anchor="start">Tech Enthusiast · Final-Year B.Tech CSE</text>
+<circle cx="156" cy="130" r="3.4" fill="#3FB950"/>
+<text x="166" y="134" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="400" fill="#C9D1D9" text-anchor="start">Open to SDE / internships</text>
+<rect x="152" y="150" width="73" height="21" rx="10.5" fill="#4C9AFF" fill-opacity="0.16" stroke="#4C9AFF" stroke-opacity="0.5"/>
+<text x="188.4" y="164.5" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="400" fill="#4C9AFF" text-anchor="middle">LinkedIn</text>
+<rect x="232.8" y="150" width="53" height="21" rx="10.5" fill="#FF6B70" fill-opacity="0.16" stroke="#FF6B70" stroke-opacity="0.5"/>
+<text x="259.3" y="164.5" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="400" fill="#FF6B70" text-anchor="middle">Email</text>
+<rect x="293.8" y="150" width="60" height="21" rx="10.5" fill="#C9A227" fill-opacity="0.16" stroke="#C9A227" stroke-opacity="0.5"/>
+<text x="323.6" y="164.5" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="400" fill="#C9A227" text-anchor="middle">GitHub</text>
+<rect x="652" y="24" width="324" height="168" rx="18" fill="#161B22" stroke="#30363D" stroke-width="1.2"/>
+<circle cx="679" cy="50" r="3.2" fill="#EC1C24"/>
+<text x="690" y="54" font-size="11" font-weight="700" letter-spacing="1.4" fill="#8B949E">TOP LANGUAGES</text>
+<text x="676" y="88" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="400" fill="#C9D1D9" text-anchor="start">JavaScript</text>
+<rect x="748" y="79" width="150" height="9" rx="4.5" fill="#21262D"/>
+<rect x="748" y="79" width="120" height="9" rx="4.5" fill="#F1E05A"/>
+<text x="952" y="88" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="400" fill="#8B949E" text-anchor="end">40%</text>
+<text x="676" y="112" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="400" fill="#C9D1D9" text-anchor="start">Python</text>
+<rect x="748" y="103" width="150" height="9" rx="4.5" fill="#21262D"/>
+<rect x="748" y="103" width="96" height="9" rx="4.5" fill="#4B8BBE"/>
+<text x="952" y="112" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="400" fill="#8B949E" text-anchor="end">32%</text>
+<text x="676" y="136" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="400" fill="#C9D1D9" text-anchor="start">TypeScript</text>
+<rect x="748" y="127" width="150" height="9" rx="4.5" fill="#21262D"/>
+<rect x="748" y="127" width="54" height="9" rx="4.5" fill="#3178C6"/>
+<text x="952" y="136" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="400" fill="#8B949E" text-anchor="end">18%</text>
+<text x="676" y="160" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="400" fill="#C9D1D9" text-anchor="start">C++</text>
+<rect x="748" y="151" width="150" height="9" rx="4.5" fill="#21262D"/>
+<rect x="748" y="151" width="30" height="9" rx="4.5" fill="#F34B7D"/>
+<text x="952" y="160" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="400" fill="#8B949E" text-anchor="end">10%</text>
+<rect x="24" y="208" width="612" height="196" rx="18" fill="#161B22" stroke="#30363D" stroke-width="1.2"/>
+<circle cx="51" cy="234" r="3.2" fill="#EC1C24"/>
+<text x="62" y="238" font-size="11" font-weight="700" letter-spacing="1.4" fill="#8B949E">FEATURED PROJECTS</text>
+<rect x="48" y="258" width="34" height="34" rx="9" fill="#79C0FF" fill-opacity="0.18" stroke="#79C0FF" stroke-opacity="0.55"/>
+<text x="65" y="280" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="800" fill="#79C0FF" text-anchor="middle">T</text>
+<text x="96" y="272" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" fill="#F0F6FC" text-anchor="start">Tracr</text>
+<text x="96" y="290" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="400" fill="#8B949E" text-anchor="start">AI code-review GitHub App · Node.js</text>
+<rect x="48" y="322" width="34" height="34" rx="9" fill="#FF6B70" fill-opacity="0.18" stroke="#FF6B70" stroke-opacity="0.55"/>
+<text x="65" y="344" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="800" fill="#FF6B70" text-anchor="middle">S</text>
+<text x="96" y="336" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" fill="#F0F6FC" text-anchor="start">Stitch</text>
+<text x="96" y="354" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="400" fill="#8B949E" text-anchor="start">Local RAG with source citations · Python</text>
+<rect x="652" y="208" width="324" height="196" rx="18" fill="#161B22" stroke="#30363D" stroke-width="1.2"/>
+<circle cx="679" cy="234" r="3.2" fill="#EC1C24"/>
+<text x="690" y="238" font-size="11" font-weight="700" letter-spacing="1.4" fill="#8B949E">GITHUB</text>
+<text x="676" y="286" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="800" fill="#F0F6FC" text-anchor="start">18</text>
+<text x="676" y="304" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="400" fill="#8B949E" text-anchor="start">Public Repos</text>
+<text x="820" y="286" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="800" fill="#F0F6FC" text-anchor="start">2</text>
+<text x="820" y="304" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="400" fill="#8B949E" text-anchor="start">Stars</text>
+<text x="676" y="352" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="800" fill="#F0F6FC" text-anchor="start">8</text>
+<text x="676" y="370" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="400" fill="#8B949E" text-anchor="start">Followers</text>
+<text x="820" y="352" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="800" fill="#F0F6FC" text-anchor="start">28</text>
+<text x="820" y="370" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="400" fill="#8B949E" text-anchor="start">Tests</text>
+<rect x="24" y="420" width="404" height="150" rx="18" fill="#161B22" stroke="#30363D" stroke-width="1.2"/>
+<circle cx="51" cy="446" r="3.2" fill="#EC1C24"/>
+<text x="62" y="450" font-size="11" font-weight="700" letter-spacing="1.4" fill="#8B949E">STACK</text>
+<rect x="48" y="468" width="60" height="21" rx="10.5" fill="#79C0FF" fill-opacity="0.16" stroke="#79C0FF" stroke-opacity="0.5"/>
+<text x="77.8" y="482.5" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="400" fill="#79C0FF" text-anchor="middle">Python</text>
+<rect x="115.6" y="468" width="66" height="21" rx="10.5" fill="#79C0FF" fill-opacity="0.16" stroke="#79C0FF" stroke-opacity="0.5"/>
+<text x="148.7" y="482.5" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="400" fill="#79C0FF" text-anchor="middle">FastAPI</text>
+<rect x="189.79999999999998" y="468" width="66" height="21" rx="10.5" fill="#79C0FF" fill-opacity="0.16" stroke="#79C0FF" stroke-opacity="0.5"/>
+<text x="222.89999999999998" y="482.5" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="400" fill="#79C0FF" text-anchor="middle">Node.js</text>
+<rect x="264.0" y="468" width="40" height="21" rx="10.5" fill="#79C0FF" fill-opacity="0.16" stroke="#79C0FF" stroke-opacity="0.5"/>
+<text x="283.9" y="482.5" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="400" fill="#79C0FF" text-anchor="middle">C++</text>
+<rect x="311.8" y="468" width="40" height="21" rx="10.5" fill="#79C0FF" fill-opacity="0.16" stroke="#79C0FF" stroke-opacity="0.5"/>
+<text x="331.7" y="482.5" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="400" fill="#79C0FF" text-anchor="middle">SQL</text>
+<rect x="48" y="498" width="60" height="21" rx="10.5" fill="#79C0FF" fill-opacity="0.16" stroke="#79C0FF" stroke-opacity="0.5"/>
+<text x="77.8" y="512.5" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="400" fill="#79C0FF" text-anchor="middle">Ollama</text>
+<rect x="115.6" y="498" width="99" height="21" rx="10.5" fill="#79C0FF" fill-opacity="0.16" stroke="#79C0FF" stroke-opacity="0.5"/>
+<text x="165.2" y="512.5" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="400" fill="#79C0FF" text-anchor="middle">scikit-learn</text>
+<rect x="222.79999999999998" y="498" width="40" height="21" rx="10.5" fill="#79C0FF" fill-opacity="0.16" stroke="#79C0FF" stroke-opacity="0.5"/>
+<text x="242.7" y="512.5" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="400" fill="#79C0FF" text-anchor="middle">Git</text>
+<rect x="444" y="420" width="236" height="150" rx="18" fill="#161B22" stroke="#30363D" stroke-width="1.2"/>
+<circle cx="471" cy="446" r="3.2" fill="#EC1C24"/>
+<text x="482" y="450" font-size="11" font-weight="700" letter-spacing="1.4" fill="#8B949E">LEARNING</text>
+<circle cx="472" cy="474" r="2.6" fill="#FFB454"/>
+<text x="484" y="478" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="400" fill="#C9D1D9" text-anchor="start">System Design</text>
+<circle cx="472" cy="496" r="2.6" fill="#FFB454"/>
+<text x="484" y="500" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="400" fill="#C9D1D9" text-anchor="start">Advanced DSA</text>
+<circle cx="472" cy="518" r="2.6" fill="#FFB454"/>
+<text x="484" y="522" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="400" fill="#C9D1D9" text-anchor="start">Distributed Systems</text>
+<rect x="696" y="420" width="280" height="150" rx="18" fill="#161B22" stroke="#30363D" stroke-width="1.2"/>
+<circle cx="723" cy="446" r="3.2" fill="#EC1C24"/>
+<text x="734" y="450" font-size="11" font-weight="700" letter-spacing="1.4" fill="#8B949E">CONTACT</text>
+<text x="720" y="478" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#4C9AFF" text-anchor="start">in</text>
+<text x="748" y="478" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="400" fill="#C9D1D9" text-anchor="start">/in/vishnugnana</text>
+<text x="720" y="500" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#FF6B70" text-anchor="start">@</text>
+<text x="748" y="500" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="400" fill="#C9D1D9" text-anchor="start">vishnugnana26@gmail.com</text>
+<text x="720" y="522" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#C9A227" text-anchor="start">gh</text>
+<text x="748" y="522" font-family="'Inter','SF Pro Display','Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="400" fill="#C9D1D9" text-anchor="start">@KoppisettiGnanaVishnu</text>
 </svg>
