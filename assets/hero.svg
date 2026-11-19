@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" width="100%">
+<defs>
+<pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.9" fill="#0A0A0A" fill-opacity="0.07"/></pattern>
+</defs>
+<rect width="1000" height="360" fill="#F6F6F3"/>
+<rect width="1000" height="360" fill="url(#grid)"/>
+<path d="M20 20 h12 M20 20 v12" stroke="#0A0A0A" stroke-width="1" stroke-opacity="0.55" fill="none"/>
+<path d="M980 20 h-12 M980 20 v12" stroke="#0A0A0A" stroke-width="1" stroke-opacity="0.55" fill="none"/>
+<path d="M20 340 h12 M20 340 v-12" stroke="#0A0A0A" stroke-width="1" stroke-opacity="0.55" fill="none"/>
+<path d="M980 340 h-12 M980 340 v-12" stroke="#0A0A0A" stroke-width="1" stroke-opacity="0.55" fill="none"/>
+<text x="40" y="46" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="10.5" fill="#8A8A8A" text-anchor="start" letter-spacing="2">PORTFOLIO / 2026</text>
+<text x="960" y="46" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="10.5" fill="#8A8A8A" text-anchor="end" letter-spacing="2">V.1.0</text>
+<text x="58" y="158" font-family="'Inter','Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="92" font-weight="800" letter-spacing="-2" fill="#0A0A0A">GNANA</text>
+<text x="58" y="244" font-family="'Inter','Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="92" font-weight="800" letter-spacing="-2" fill="#0A0A0A">VISHNU<tspan fill="#EC1C24">.</tspan></text>
+<line x1="60" y1="266" x2="560" y2="266" stroke="#0A0A0A" stroke-opacity="0.85"/>
+<text x="62" y="292" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12.5" fill="#555555" text-anchor="start" letter-spacing="2.2">TECH ENTHUSIAST  —  FINAL-YEAR B.TECH CSE</text>
+<rect x="62" y="306" width="9" height="9" fill="#EC1C24"/>
+<text x="80" y="315" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="11" fill="#0A0A0A" text-anchor="start" letter-spacing="1.6">OPEN TO SDE / INTERNSHIPS</text>
+<text x="62" y="342" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="10.5" fill="#8A8A8A" text-anchor="start" letter-spacing="0.5">LINKEDIN /in/vishnugnana     EMAIL vishnugnana26@gmail.com     GITHUB @KoppisettiGnanaVishnu</text>
+<rect x="612" y="96" width="318" height="196" fill="none" stroke="#0A0A0A" stroke-opacity="0.30"/>
+<path d="M612 96 h9 M612 96 v9" stroke="#EC1C24" stroke-width="1.2" fill="none"/>
+<path d="M930 96 h-9 M930 96 v9" stroke="#EC1C24" stroke-width="1.2" fill="none"/>
+<path d="M612 292 h9 M612 292 v-9" stroke="#EC1C24" stroke-width="1.2" fill="none"/>
+<path d="M930 292 h-9 M930 292 v-9" stroke="#EC1C24" stroke-width="1.2" fill="none"/>
+<line x1="660" y1="140" x2="726" y2="118" stroke="#0A0A0A" stroke-opacity="0.42" stroke-width="1"/>
+<line x1="858" y1="124" x2="902" y2="172" stroke="#0A0A0A" stroke-opacity="0.42" stroke-width="1"/>
+<line x1="792" y1="150" x2="826" y2="214" stroke="#0A0A0A" stroke-opacity="0.42" stroke-width="1"/>
+<line x1="826" y1="214" x2="806" y2="196" stroke="#0A0A0A" stroke-opacity="0.42" stroke-width="1"/>
+<line x1="792" y1="150" x2="806" y2="196" stroke="#0A0A0A" stroke-opacity="0.42" stroke-width="1"/>
+<line x1="660" y1="140" x2="700" y2="170" stroke="#0A0A0A" stroke-opacity="0.42" stroke-width="1"/>
+<line x1="792" y1="150" x2="858" y2="124" stroke="#0A0A0A" stroke-opacity="0.42" stroke-width="1"/>
+<line x1="748" y1="246" x2="806" y2="196" stroke="#0A0A0A" stroke-opacity="0.42" stroke-width="1"/>
+<line x1="902" y1="172" x2="888" y2="252" stroke="#0A0A0A" stroke-opacity="0.42" stroke-width="1"/>
+<line x1="660" y1="140" x2="676" y2="210" stroke="#0A0A0A" stroke-opacity="0.42" stroke-width="1"/>
+<line x1="676" y1="210" x2="748" y2="246" stroke="#0A0A0A" stroke-opacity="0.42" stroke-width="1"/>
+<line x1="676" y1="210" x2="700" y2="170" stroke="#0A0A0A" stroke-opacity="0.42" stroke-width="1"/>
+<line x1="726" y1="118" x2="700" y2="170" stroke="#0A0A0A" stroke-opacity="0.42" stroke-width="1"/>
+<line x1="826" y1="214" x2="888" y2="252" stroke="#0A0A0A" stroke-opacity="0.42" stroke-width="1"/>
+<circle cx="660" cy="140" r="4" fill="#EC1C24"/>
+<circle cx="726" cy="118" r="3" fill="#0A0A0A"/>
+<circle cx="792" cy="150" r="5" fill="#0A0A0A"/>
+<circle cx="858" cy="124" r="3" fill="#0A0A0A"/>
+<circle cx="902" cy="172" r="4" fill="#EC1C24"/>
+<circle cx="676" cy="210" r="3" fill="#0A0A0A"/>
+<circle cx="748" cy="246" r="4" fill="#0A0A0A"/>
+<circle cx="826" cy="214" r="5" fill="#0A0A0A"/>
+<circle cx="888" cy="252" r="3" fill="#EC1C24"/>
+<circle cx="700" cy="170" r="2.5" fill="#0A0A0A"/>
+<circle cx="806" cy="196" r="2.5" fill="#0A0A0A"/>
+<line x1="612" y1="306" x2="930" y2="306" stroke="#0A0A0A" stroke-opacity="0.5"/>
+<line x1="612" y1="301" x2="612" y2="311" stroke="#0A0A0A" stroke-opacity="0.5"/>
+<line x1="930" y1="301" x2="930" y2="311" stroke="#0A0A0A" stroke-opacity="0.5"/>
+<text x="771.0" y="322" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="10" fill="#8A8A8A" text-anchor="middle" letter-spacing="2">FIG. 01 — KNOWLEDGE GRAPH</text>
+<text transform="translate(958,250) rotate(-90)" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="10" fill="#8A8A8A" letter-spacing="3">CONNECTING THE THREADS OF KNOWLEDGE</text>
+</svg>
