@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 615" width="100%" font-family="'Fira Code','SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace">
+<rect x="16" y="16" width="968" height="583" rx="14" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+<path d="M30 16 H970 A14 14 0 0 1 984 30 V62 H16 V30 A14 14 0 0 1 30 16 Z" fill="#161B22"/>
+<line x1="16" y1="62" x2="984" y2="62" stroke="#30363D"/>
+<circle cx="44" cy="39" r="6" fill="#F85149"/>
+<circle cx="64" cy="39" r="6" fill="#FFB454"/>
+<circle cx="84" cy="39" r="6" fill="#3FB950"/>
+<text x="110" y="44" font-size="13" fill="#8B949E">gnana@github: <tspan fill="#C9D1D9">~/profile</tspan><tspan fill="#EC1C24"> #</tspan></text>
+<line x1="498" y1="84" x2="498" y2="561" stroke="#21262D"/>
+<rect x="46" y="82" width="4" height="17" rx="1.5" fill="#EC1C24"/>
+<text x="60" y="96" font-size="15" font-weight="700" fill="#E6EDF3">SYS_INFO</text>
+<text x="46" y="122" font-size="13"><tspan fill="#FFB454">.name</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">Koppisetti Gnana Vishnu</tspan></text>
+<text x="46" y="143" font-size="13"><tspan fill="#FFB454">.status</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#3FB950">Tech Enthusiast · Open to SDE roles</tspan></text>
+<text x="46" y="164" font-size="13"><tspan fill="#FFB454">.education</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">B.Tech CSE · LPU · CGPA 7.68</tspan></text>
+<text x="46" y="185" font-size="13"><tspan fill="#FFB454">.focus</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">Python · Backend · REST APIs · AI / RAG</tspan></text>
+<rect x="46" y="206" width="4" height="17" rx="1.5" fill="#EC1C24"/>
+<text x="60" y="220" font-size="15" font-weight="700" fill="#E6EDF3">SPECIALIZATION</text>
+<text x="46" y="246" font-size="13"><tspan fill="#EC1C24">▪ </tspan><tspan fill="#C9D1D9">backend engineering &amp; REST services</tspan></text>
+<text x="46" y="266" font-size="13"><tspan fill="#EC1C24">▪ </tspan><tspan fill="#C9D1D9">retrieval-augmented generation (RAG)</tspan></text>
+<text x="46" y="286" font-size="13"><tspan fill="#EC1C24">▪ </tspan><tspan fill="#C9D1D9">data structures &amp; algorithms</tspan></text>
+<text x="46" y="306" font-size="13"><tspan fill="#EC1C24">▪ </tspan><tspan fill="#C9D1D9">data pipelines &amp; analytics</tspan></text>
+<rect x="46" y="326" width="4" height="17" rx="1.5" fill="#EC1C24"/>
+<text x="60" y="340" font-size="15" font-weight="700" fill="#E6EDF3">STACK</text>
+<text x="46" y="366" font-size="13"><tspan fill="#FFB454">.languages</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">Python · C++ · Java · JavaScript</tspan></text>
+<text x="46" y="387" font-size="13"><tspan fill="#FFB454">.backend</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">FastAPI · Node.js · Express · SQLite</tspan></text>
+<text x="46" y="408" font-size="13"><tspan fill="#FFB454">.ai_data</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">sentence-transformers · Ollama · scikit-learn</tspan></text>
+<text x="46" y="429" font-size="13"><tspan fill="#FFB454">.tooling</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">Git · GitHub Actions · pytest</tspan></text>
+<rect x="46" y="450" width="4" height="17" rx="1.5" fill="#EC1C24"/>
+<text x="60" y="464" font-size="15" font-weight="700" fill="#E6EDF3">CONTACT</text>
+<text x="46" y="490" font-size="13"><tspan fill="#FFB454">LinkedIn</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">/in/vishnugnana</tspan></text>
+<text x="46" y="511" font-size="13"><tspan fill="#FFB454">Email</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">vishnugnana26@gmail.com</tspan></text>
+<text x="46" y="532" font-size="13"><tspan fill="#FFB454">GitHub</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">@KoppisettiGnanaVishnu</tspan></text>
+<rect x="520" y="82" width="4" height="17" rx="1.5" fill="#EC1C24"/>
+<text x="534" y="96" font-size="15" font-weight="700" fill="#E6EDF3">CURRENT_BUILD</text>
+<text x="520" y="122" font-size="13"><tspan fill="#FFB454">.project</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">Stitch — Document Intelligence (RAG)</tspan></text>
+<text x="520" y="143" font-size="13"><tspan fill="#FFB454">.stack</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">Python · FastAPI · sentence-transformers · Ollama</tspan></text>
+<text x="520" y="164" font-size="13"><tspan fill="#FFB454">.highlight</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#3FB950">cited answers · 100% refusal accuracy</tspan></text>
+<text x="520" y="185" font-size="13"><tspan fill="#FFB454">.testing</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">28 tests · CI on every push</tspan></text>
+<rect x="520" y="206" width="4" height="17" rx="1.5" fill="#EC1C24"/>
+<text x="534" y="220" font-size="15" font-weight="700" fill="#E6EDF3">FEATURED_PROJECTS</text>
+<text x="520" y="246" font-size="13"><tspan fill="#FFB454">01</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">Tracr — AI code-review GitHub App  (Node.js)</tspan></text>
+<text x="520" y="267" font-size="13"><tspan fill="#FFB454">02</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">Stitch — local RAG with citations  (Python)</tspan></text>
+<text x="520" y="288" font-size="13"><tspan fill="#FFB454">03</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">Churn Analytics — ML pipeline  (Python)</tspan></text>
+<text x="520" y="309" font-size="13"><tspan fill="#FFB454">04</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">OS Perf Analyzer — realtime monitoring  (Python)</tspan></text>
+<rect x="520" y="330" width="4" height="17" rx="1.5" fill="#EC1C24"/>
+<text x="534" y="344" font-size="15" font-weight="700" fill="#E6EDF3">GITHUB_TELEMETRY</text>
+<text x="520" y="370" font-size="13"><tspan fill="#FFB454">.public_repos</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">18</tspan></text>
+<text x="520" y="391" font-size="13"><tspan fill="#FFB454">.top_langs</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">JavaScript · Python · TypeScript</tspan></text>
+<text x="520" y="412" font-size="13"><tspan fill="#FFB454">.ci</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#3FB950">GitHub Actions ✓</tspan></text>
+<rect x="520" y="433" width="4" height="17" rx="1.5" fill="#EC1C24"/>
+<text x="534" y="447" font-size="15" font-weight="700" fill="#E6EDF3">LEARNING_NOW</text>
+<text x="520" y="473" font-size="13"><tspan fill="#FFB454">.topics</tspan><tspan fill="#8B949E"> : </tspan><tspan fill="#C9D1D9">System Design · Advanced DSA · Distributed Systems</tspan></text>
+<line x1="16" y1="567" x2="984" y2="567" stroke="#30363D"/>
+<circle cx="51" cy="581" r="4" fill="#3FB950"/>
+<text x="64" y="585" font-size="12" fill="#8B949E">all systems operational</text>
+<text x="520" y="585" font-size="12" fill="#8B949E">gnana@github:~$ <tspan fill="#EC1C24">█</tspan></text>
+</svg>

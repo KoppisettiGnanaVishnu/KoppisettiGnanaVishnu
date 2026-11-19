@@ -1,3 +1,11 @@
+<!--
+  GitHub Profile README for KoppisettiGnanaVishnu
+  Upload BOTH files to the repo  KoppisettiGnanaVishnu/KoppisettiGnanaVishnu :
+      README.md
+      assets/dashboard.svg   <-- keep this exact path
+  Regenerate the dashboard with:  python profile/build_dashboard.py
+-->
+
 <div align="center">
   <img alt="Gnana Vishnu — Engineering Dashboard" src="assets/dashboard.svg" width="100%">
 </div>
@@ -32,8 +40,14 @@ Real-time monitoring, analysis and optimization of OS processes. `Python`
 ## 📊 GitHub Analytics
 
 <div align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=KoppisettiGnanaVishnu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=ec1c24&text_color=c9d1d9&icon_color=ec1c24&ring_color=ec1c24" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoppisettiGnanaVishnu&layout=compact&hide_border=true&bg_color=0d1117&title_color=ec1c24&text_color=c9d1d9" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=KoppisettiGnanaVishnu&hide_border=true&background=0d1117&stroke=30363d&ring=ec1c24&fire=ec1c24&currStreakLabel=ec1c24&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+
 </div>
 
 ---
@@ -41,9 +55,13 @@ Real-time monitoring, analysis and optimization of OS processes. `Python`
 ## 🌐 Connect With Me
 
 <div align="center">
+
 <a href="https://www.linkedin.com/in/vishnugnana/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:vishnugnana26@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/KoppisettiGnanaVishnu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
 </div>
+
+---
 
 <div align="center"><i>“I love building software that matters.”</i></div>
