@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Gnana Vishnu — hero" src="assets/hero3.svg" width="100%">
+  <img alt="Gnana Vishnu — hero" src="assets/hero4.svg" width="100%">
 </div>
 
 <div align="center">
