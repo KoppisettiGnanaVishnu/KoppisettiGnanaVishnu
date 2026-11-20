@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="100%" role="img">
+<rect width="1000" height="340" fill="#7F1D1D"/>
+<rect x="40" y="40" width="920" height="260" fill="#000000" fill-opacity="0.30"/>
+<path d="M14 14 h12 M14 14 v12" stroke="#FFFFFF" stroke-opacity="0.30" stroke-width="1.1"/>
+<path d="M986 14 h-12 M986 14 v12" stroke="#FFFFFF" stroke-opacity="0.30" stroke-width="1.1"/>
+<path d="M14 326 h12 M14 326 v-12" stroke="#FFFFFF" stroke-opacity="0.30" stroke-width="1.1"/>
+<path d="M986 326 h-12 M986 326 v-12" stroke="#FFFFFF" stroke-opacity="0.30" stroke-width="1.1"/>
+<line x1="44" y1="62" x2="956" y2="62" stroke="#FFFFFF" stroke-opacity="0.85" stroke-width="1"/>
+<rect x="44" y="62" width="64" height="2" fill="#FFFFFF"/>
+<text x="956" y="68" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="9" letter-spacing="1.8" fill="#FFFFFF" fill-opacity="0.6" text-anchor="end">TECH ENTHUSIAST</text>
+<text x="956" y="82" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="9" letter-spacing="1.8" fill="#FFFFFF" fill-opacity="0.6" text-anchor="end">FINAL-YEAR B.TECH CSE</text>
+<text x="44" y="190" font-family="'Helvetica Neue','Inter','Segoe UI',Arial,sans-serif" font-size="96" font-weight="800" letter-spacing="-4.2" fill="#FFFFFF">GNANA</text>
+<text x="44" y="284" font-family="'Helvetica Neue','Inter','Segoe UI',Arial,sans-serif" font-size="96" font-weight="800" letter-spacing="-4.2" fill="#FFFFFF">VISHNU<tspan fill="#FFFFFF">.</tspan></text>
+<line x1="44" y1="306" x2="956" y2="306" stroke="#FFFFFF" stroke-opacity="0.85" stroke-width="1"/>
+<rect x="44" y="306" width="64" height="2" fill="#FFFFFF"/>
+<text x="116" y="316" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="9" letter-spacing="1.4" fill="#FFFFFF" fill-opacity="0.6">TRACR · STITCH · CHURN · OS ANALYZER</text>
+<text x="956" y="316" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="9" letter-spacing="1.4" fill="#FFFFFF" fill-opacity="0.6" text-anchor="end">github.com/koppisettignanavishnu</text>
+</svg>
