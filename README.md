@@ -1,53 +1,61 @@
 <div align="center">
-  <img alt="Gnana Vishnu — hero" src="assets/hero_arch.svg" width="100%">
+  <img alt="Gnana Vishnu — hero" src="assets/hero_red.svg" width="100%">
 </div>
 
 <div align="center">
-  <b>Tech Enthusiast</b> · Final-Year B.Tech CSE · Building &amp; learning in public
+  <b>Tech Enthusiast</b> &nbsp;·&nbsp; Final-Year B.Tech CSE &nbsp;·&nbsp; Building &amp; learning in public
 </div>
 
 ---
 
-## ⭐ Featured Projects
+## Projects
 
-### 🔍 [Tracr](https://github.com/KoppisettiGnanaVishnu/tracr) — GitHub AI Code Review & Accountability Platform
+### 01 · [Tracr](https://github.com/KoppisettiGnanaVishnu/tracr)
 
-> Automates Pull Request analysis and security review of AI-assisted code, with a **0–100 trust score** and line-level review comments posted directly onto PRs.
->
-> **Tech:** `Node.js` · `Express` · `Octokit` · `SQLite`
+**AI code review for AI-generated pull requests.** Every PR is analysed, scored 0–100 for trust, and reviewed with line-level comments posted straight back to GitHub.
 
-### 🧵 [Stitch](https://github.com/KoppisettiGnanaVishnu/Stitch-rag) — Enterprise Document Intelligence (RAG)
+**The hard part** — telling *plausible* AI code apart from *correct* AI code, without burying the reviewer in noise.
 
-> A fully local RAG system that answers questions **strictly from your documents** (PDF / DOCX / TXT) with exact source and page citations. A trust layer scores confidence, groundedness and completeness and **refuses without evidence** — with a `pytest` suite and CI on every push.
->
-> **Tech:** `Python` · `sentence-transformers` · `Ollama` · `pytest`
+`Node.js` · `Express` · `Octokit` · `SQLite`
 
-### 📉 [Customer Churn Analytics Platform](https://github.com/KoppisettiGnanaVishnu/Customer-Churn-Analytics-Platform)
+### 02 · [Stitch](https://github.com/KoppisettiGnanaVishnu/Stitch-rag)
 
-> End-to-end churn prediction and analytics pipeline. `Python` · `SQL` · `scikit-learn` · `Power BI`
+**Document intelligence that refuses to guess.** A fully local RAG system answering strictly from your PDF / DOCX / TXT files, with exact source and page citations. A trust layer scores confidence, groundedness and completeness — and it declines when the evidence isn't there.
 
-### ⚙️ [AI-Powered OS Performance Analyzer](https://github.com/KoppisettiGnanaVishnu/AI-powered-performance-Analyzer-for-OS-Processes)
+**The hard part** — making *"I don't know"* a first-class answer instead of a failure mode.
 
-> Real-time monitoring, analysis and optimization of OS processes. `Python`
+`Python` · `sentence-transformers` · `Ollama` · `pytest`
 
----
+`hit@3 100%` · `refusal 100%` · `citation 71%` · `~3.6 s` — reproducible with `python scripts/benchmark.py`
 
-## 📜 Certifications
+### 03 · [Customer Churn Analytics Platform](https://github.com/KoppisettiGnanaVishnu/Customer-Churn-Analytics-Platform)
 
-| Certification | Issuer |
-|:---|:---|
-| **OCI 2025 — AI Foundations Associate** | Oracle |
-| Cloud Computing | NPTEL |
-| Computational Theory & Finite Automata | Infosys |
-| Bits and Bytes of Computer Networking | Coursera |
-| Software Engineering: Implementation & Testing | Coursera |
+**Churn prediction, end to end.** Cleaning, feature work, model training and an interactive dashboard that turns the predictions into something a business team can act on.
+
+**The hard part** — keeping the model honest across class imbalance, and making the output legible to people who don't read confusion matrices.
+
+`Python` · `SQL` · `scikit-learn` · `Power BI`
 
 ---
 
-## 🌱 Currently Learning
-
-`System Design` · `Advanced DSA` · `Distributed Systems` · `Scalable Backend Architecture`
+Also — [AI-Powered OS Performance Analyzer](https://github.com/KoppisettiGnanaVishnu/AI-powered-performance-Analyzer-for-OS-Processes): real-time monitoring and analysis of OS processes, in Python.
 
 ---
 
-<div align="center"><i>“I love building software that matters.”</i></div>
+## Now
+
+Taking **Stitch** from prototype to service: hybrid retrieval, cross-encoder reranking, and an evaluation harness that runs on every push. In parallel, system design and distributed systems.
+
+## Certifications
+
+**OCI 2025 — AI Foundations Associate** · Oracle<br>
+Cloud Computing · NPTEL<br>
+Software Engineering: Implementation & Testing · Coursera<br>
+Computational Theory & Finite Automata · Infosys<br>
+Bits and Bytes of Computer Networking · Coursera
+
+---
+
+## Contact
+
+[`vishnugnana26@gmail.com`](mailto:vishnugnana26@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/vishnugnana) &nbsp;·&nbsp; [GitHub](https://github.com/KoppisettiGnanaVishnu)
