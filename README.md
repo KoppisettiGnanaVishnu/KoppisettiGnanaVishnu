@@ -1,37 +1,36 @@
 <!--
-Terminal-themed GitHub profile README — matches reference style.
-Upload your suit photo to assets/photo.jpg and replace the img src below.
+Terminal-themed GitHub profile README — black theme, photo on left.
+Upload your photo to assets/photo.jpg in the repo, then replace the img src below.
 -->
-<div align="center">
+<div style="background-color:#000000; color:#e0e0e0; font-family:'Courier New',Courier,monospace; padding:24px; border-radius:8px;">
 
-<table width="100%">
-<tr>
-<td width="340" style="vertical-align: top; padding-right: 32px;">
+<div style="display:flex; gap:24px;">
 
-<!-- ================= LEFT COLUMN: PHOTO ================= -->
-<div style="height: 100vh; min-height: 600px; background: #000000; display: flex; flex-direction: column; align-items: center; justify-content: center; border-right: 1px solid #1a1a1a;">
-  <img src="https://github.com/KoppisettiGnanaVishnu.png" style="width: 240px; height: 300px; object-fit: cover; filter: grayscale(1) contrast(1.3) brightness(0.85); image-rendering: pixelated; border: 1px solid #1a1a1a;" />
+<!-- LEFT: Photo -->
+<div style="flex:0 0 260px; background:#000000; border:1px solid #1a1a1a; border-radius:4px; padding:8px; text-align:center;">
+  <img src="https://github.com/KoppisettiGnanaVishnu.png" width="240" height="300" style="filter:grayscale(1) contrast(1.4) brightness(0.85); image-rendering:pixelated; object-fit:cover; border:1px solid #1a1a1a;" />
 </div>
 
-</td>
-<td style="vertical-align: top; padding-left: 32px; font-family:'Courier New',Courier,monospace; color:#e0e0e0; line-height:1.4; background:#000000;">
+<!-- RIGHT: Sections -->
+<div style="flex:1; background:#000000;">
 
-<!-- ================= RIGHT COLUMN: SYS INFO ================= -->
-
-<!-- Header bar -->
-<div style="background:#0d0d0d; border-bottom:1px solid #1a1a1a; padding:12px 0; font-size:13px; color:#8a8a8a;">
-  <span style="color:#00ff41; font-weight:bold; margin-left:8px;">KoppisettiGnanaVishnu@github:</span><span style="color:#bb86fc;">~</span><span style="color:#00ff41; font-weight:bold;">#</span>
+<!-- Header -->
+<div style="background:#0d0d0d; border:1px solid #1a1a1a; border-radius:4px; padding:10px 16px; margin-bottom:16px; font-size:13px; color:#8a8a8a;">
+  <span style="color:#00ff41; font-weight:bold;">KoppisettiGnanaVishnu@github:</span><span style="color:#bb86fc;">~</span><span style="color:#00ff41; font-weight:bold;">#</span>
+  <span style="float:right;">
+    <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#ff5f56;margin-left:4px;"></span>
+    <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#ffbd2e;margin-left:4px;"></span>
+    <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#27c93f;margin-left:4px;"></span>
+  </span>
 </div>
-
-<div style="padding: 24px 0 40px 0;">
 
 <!-- SYS_INFO -->
-<div style="border:1px solid #1a1a1a; border-radius:6px; margin-bottom:24px; overflow:hidden;">
-  <div style="background:#0d0d0d; padding:10px 16px; border-bottom:1px solid #1a1a1a;">
+<div style="background:#0d0d0d; border:1px solid #1a1a1a; border-radius:4px; margin-bottom:16px; overflow:hidden;">
+  <div style="background:#111111; padding:10px 16px; border-bottom:1px solid #1a1a1a;">
     <span style="color:#4fc3f7; font-weight:bold; font-size:15px; letter-spacing:1px; text-transform:uppercase;">SYS_INFO</span>
   </div>
   <div style="padding:14px 16px;">
-    <table width="100%" style="border-spacing:0 8px;">
+    <table style="border-spacing:0 8px; width:100%;">
       <tr><td style="color:#ffb300; width:140px; font-size:13px;">.name</td><td style="color:#666; font-size:12px;">:</td><td style="color:#bb86fc; font-size:13px;">Koppisetti Gnana Vishnu</td></tr>
       <tr><td style="color:#ffb300; width:140px; font-size:13px;">.role</td><td style="color:#666; font-size:12px;">:</td><td style="color:#bb86fc; font-size:13px;">Final-Year B.Tech CSE · Open to SDE</td></tr>
       <tr><td style="color:#ffb300; width:140px; font-size:13px;">.education</td><td style="color:#666; font-size:12px;">:</td><td style="color:#bb86fc; font-size:13px;">B.Tech CSE · LPU</td></tr>
@@ -42,12 +41,12 @@ Upload your suit photo to assets/photo.jpg and replace the img src below.
 </div>
 
 <!-- CURRENT_BUILD -->
-<div style="border:1px solid #1a1a1a; border-radius:6px; margin-bottom:24px; overflow:hidden;">
-  <div style="background:#0d0d0d; padding:10px 16px; border-bottom:1px solid #1a1a1a;">
+<div style="background:#0d0d0d; border:1px solid #1a1a1a; border-radius:4px; margin-bottom:16px; overflow:hidden;">
+  <div style="background:#111111; padding:10px 16px; border-bottom:1px solid #1a1a1a;">
     <span style="color:#4fc3f7; font-weight:bold; font-size:15px; letter-spacing:1px; text-transform:uppercase;">CURRENT_BUILD</span>
   </div>
   <div style="padding:14px 16px;">
-    <table width="100%" style="border-spacing:0 8px;">
+    <table style="border-spacing:0 8px; width:100%;">
       <tr><td style="color:#ffb300; width:140px; font-size:13px;">.repository</td><td style="color:#666; font-size:12px;">:</td><td style="color:#bb86fc; font-size:13px;">Stitch-rag</td></tr>
       <tr><td style="color:#ffb300; width:140px; font-size:13px;">.stack</td><td style="color:#666; font-size:12px;">:</td><td style="color:#bb86fc; font-size:13px;">Python · sentence-transformers · Ollama · pytest</td></tr>
       <tr><td style="color:#ffb300; width:140px; font-size:13px;">.updated</td><td style="color:#666; font-size:12px;">:</td><td style="color:#bb86fc; font-size:13px;">2026-11-24</td></tr>
@@ -56,12 +55,12 @@ Upload your suit photo to assets/photo.jpg and replace the img src below.
 </div>
 
 <!-- GITHUB_TELEMETRY -->
-<div style="border:1px solid #1a1a1a; border-radius:6px; margin-bottom:24px; overflow:hidden;">
-  <div style="background:#0d0d0d; padding:10px 16px; border-bottom:1px solid #1a1a1a;">
+<div style="background:#0d0d0d; border:1px solid #1a1a1a; border-radius:4px; margin-bottom:16px; overflow:hidden;">
+  <div style="background:#111111; padding:10px 16px; border-bottom:1px solid #1a1a1a;">
     <span style="color:#4fc3f7; font-weight:bold; font-size:15px; letter-spacing:1px; text-transform:uppercase;">GITHUB_TELEMETRY</span>
   </div>
   <div style="padding:14px 16px;">
-    <table width="100%" style="border-spacing:0 8px;">
+    <table style="border-spacing:0 8px; width:100%;">
       <tr>
         <td style="color:#ffb300; width:140px; font-size:13px;">.public_repos</td><td style="color:#666; font-size:12px;">:</td>
         <td style="color:#bb86fc; font-size:13px; background:#111; border:1px solid #1a1a1a; padding:2px 8px; border-radius:4px; display:inline-block;">4</td>
@@ -77,12 +76,12 @@ Upload your suit photo to assets/photo.jpg and replace the img src below.
 </div>
 
 <!-- CERTIFICATIONS -->
-<div style="border:1px solid #1a1a1a; border-radius:6px; margin-bottom:24px; overflow:hidden;">
-  <div style="background:#0d0d0d; padding:10px 16px; border-bottom:1px solid #1a1a1a;">
+<div style="background:#0d0d0d; border:1px solid #1a1a1a; border-radius:4px; margin-bottom:16px; overflow:hidden;">
+  <div style="background:#111111; padding:10px 16px; border-bottom:1px solid #1a1a1a;">
     <span style="color:#4fc3f7; font-weight:bold; font-size:15px; letter-spacing:1px; text-transform:uppercase;">CERTIFICATIONS</span>
   </div>
   <div style="padding:14px 16px;">
-    <table width="100%" style="border-spacing:0 8px;">
+    <table style="border-spacing:0 8px; width:100%;">
       <tr><td style="color:#ffb300; width:140px; font-size:13px;">.status</td><td style="color:#666; font-size:12px;">:</td><td style="color:#00ff41; font-size:13px;">OCI AI Foundations Associate</td></tr>
       <tr><td style="color:#ffb300; width:140px; font-size:13px;">.issuer</td><td style="color:#666; font-size:12px;">:</td><td style="color:#bb86fc; font-size:13px;">Oracle · NPTEL · Coursera · Infosys</td></tr>
     </table>
@@ -90,8 +89,8 @@ Upload your suit photo to assets/photo.jpg and replace the img src below.
 </div>
 
 <!-- SPECIALIZATION -->
-<div style="border:1px solid #1a1a1a; border-radius:6px; margin-bottom:24px; overflow:hidden;">
-  <div style="background:#0d0d0d; padding:10px 16px; border-bottom:1px solid #1a1a1a;">
+<div style="background:#0d0d0d; border:1px solid #1a1a1a; border-radius:4px; margin-bottom:16px; overflow:hidden;">
+  <div style="background:#111111; padding:10px 16px; border-bottom:1px solid #1a1a1a;">
     <span style="color:#4fc3f7; font-weight:bold; font-size:15px; letter-spacing:1px; text-transform:uppercase;">SPECIALIZATION</span>
   </div>
   <div style="padding:14px 16px;">
@@ -107,12 +106,12 @@ Upload your suit photo to assets/photo.jpg and replace the img src below.
 </div>
 
 <!-- ENGINEERING_RADAR -->
-<div style="border:1px solid #1a1a1a; border-radius:6px; margin-bottom:24px; overflow:hidden;">
-  <div style="background:#0d0d0d; padding:10px 16px; border-bottom:1px solid #1a1a1a;">
+<div style="background:#0d0d0d; border:1px solid #1a1a1a; border-radius:4px; margin-bottom:16px; overflow:hidden;">
+  <div style="background:#111111; padding:10px 16px; border-bottom:1px solid #1a1a1a;">
     <span style="color:#4fc3f7; font-weight:bold; font-size:15px; letter-spacing:1px; text-transform:uppercase;">ENGINEERING_RADAR</span>
   </div>
   <div style="padding:14px 16px;">
-    <table width="100%" style="border-spacing:0 12px;">
+    <table style="border-spacing:0 12px; width:100%;">
       <tr>
         <td style="color:#bb86fc; font-size:13px;">.ai</td>
         <td style="text-align:right; color:#8a8a8a; font-size:13px;">85%</td>
@@ -139,8 +138,8 @@ Upload your suit photo to assets/photo.jpg and replace the img src below.
 </div>
 
 <!-- PACKAGE_REGISTRY -->
-<div style="border:1px solid #1a1a1a; border-radius:6px; margin-bottom:24px; overflow:hidden;">
-  <div style="background:#0d0d0d; padding:10px 16px; border-bottom:1px solid #1a1a1a;">
+<div style="background:#0d0d0d; border:1px solid #1a1a1a; border-radius:4px; margin-bottom:16px; overflow:hidden;">
+  <div style="background:#111111; padding:10px 16px; border-bottom:1px solid #1a1a1a;">
     <span style="color:#4fc3f7; font-weight:bold; font-size:15px; letter-spacing:1px; text-transform:uppercase;">PACKAGE_REGISTRY</span>
   </div>
   <div style="padding:14px 16px;">
@@ -162,12 +161,12 @@ Upload your suit photo to assets/photo.jpg and replace the img src below.
 </div>
 
 <!-- CONTACT -->
-<div style="border:1px solid #1a1a1a; border-radius:6px; overflow:hidden;">
-  <div style="background:#0d0d0d; padding:10px 16px; border-bottom:1px solid #1a1a1a;">
+<div style="background:#0d0d0d; border:1px solid #1a1a1a; border-radius:4px; overflow:hidden;">
+  <div style="background:#111111; padding:10px 16px; border-bottom:1px solid #1a1a1a;">
     <span style="color:#4fc3f7; font-weight:bold; font-size:15px; letter-spacing:1px; text-transform:uppercase;">CONTACT</span>
   </div>
   <div style="padding:14px 16px;">
-    <table width="100%" style="border-spacing:0 8px;">
+    <table style="border-spacing:0 8px; width:100%;">
       <tr>
         <td style="color:#8a8a8a; font-size:13px;">LinkedIn</td><td style="color:#e0e0e0; font-size:13px;">/in/vishnugnana</td>
         <td style="color:#8a8a8a; font-size:13px;">Email</td><td style="color:#e0e0e0; font-size:13px;">vishnugnana26@gmail.com</td>
