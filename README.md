@@ -1,3 +1,3 @@
 <div align="center">
-  <img alt="Gnana Vishnu — terminal profile" src="assets/hero_terminal_full.svg?v=3" width="100%">
+  <img alt="Koppisetti Gnana Vishnu — terminal profile" src="assets/profile_card.png" width="100%">
 </div>
