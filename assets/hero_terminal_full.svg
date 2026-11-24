@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 720" width="100%" role="img" style="background:#000000;">
+<rect width="1000" height="720" fill="#000000"/>
+<rect x="0" y="0" width="300" height="720" fill="#000000"/>
+<line x1="300" y1="0" x2="300" y2="720" stroke="#1a1a1a" stroke-width="1"/>
+<defs><filter id="bw"><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncR type="linear" slope="1.4"/><feFuncG type="linear" slope="1.4"/><feFuncB type="linear" slope="1.4"/></feComponentTransfer></filter></defs>
+<image xlink:href="https://github.com/KoppisettiGnanaVishnu.png" x="30" y="120" width="240" height="300" filter="url(#bw)" preserveAspectRatio="xMidYMid slice"/>
+<rect x="30" y="120" width="240" height="300" fill="none" stroke="#1a1a1a" stroke-width="1"/>
+<text x="150" y="440" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="20" font-weight="700" letter-spacing="2" fill="#00ff41" text-anchor="middle">Hello World.</text>
+<rect x="320" y="20" width="660" height="36" fill="#0d0d0d"/>
+<line x1="320" y1="56" x2="980" y2="56" stroke="#1a1a1a" stroke-width="1"/>
+<text x="336" y="44" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="700" letter-spacing="0.4" fill="#00ff41" text-anchor="start">KoppisettiGnanaVishnu@github:</text>
+<text x="550" y="44" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#bb86fc" text-anchor="start">~</text>
+<text x="562" y="44" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="700" letter-spacing="0.4" fill="#00ff41" text-anchor="start">#</text>
+<circle cx="940" cy="38" r="5" fill="#ff5f56"/>
+<circle cx="956" cy="38" r="5" fill="#ffbd2e"/>
+<circle cx="972" cy="38" r="5" fill="#27c93f"/>
+<rect x="320" y="72" width="660" height="168" fill="#0d0d0d" rx="4"/>
+<rect x="320" y="72" width="660" height="30" fill="#111111" rx="4"/>
+<line x1="320" y1="102" x2="980" y2="102" stroke="#1a1a1a" stroke-width="1"/>
+<text x="336" y="92" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="14" font-weight="700" letter-spacing="1" fill="#4fc3f7" text-anchor="start">SYS_INFO</text>
+<text x="336" y="118" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#ffb300" text-anchor="start">.name</text>
+<text x="466" y="118" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#8a8a8a" text-anchor="start">:</text>
+<text x="480" y="118" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#bb86fc" text-anchor="start">Koppisetti Gnana Vishnu</text>
+<text x="336" y="142" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#ffb300" text-anchor="start">.role</text>
+<text x="466" y="142" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#8a8a8a" text-anchor="start">:</text>
+<text x="480" y="142" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#bb86fc" text-anchor="start">Final-Year B.Tech CSE · Open to SDE</text>
+<text x="336" y="166" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#ffb300" text-anchor="start">.education</text>
+<text x="466" y="166" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#8a8a8a" text-anchor="start">:</text>
+<text x="480" y="166" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#bb86fc" text-anchor="start">B.Tech CSE · LPU</text>
+<text x="336" y="190" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#ffb300" text-anchor="start">.focus</text>
+<text x="466" y="190" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#8a8a8a" text-anchor="start">:</text>
+<text x="480" y="190" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#bb86fc" text-anchor="start">RAG · Backend · AI/ML</text>
+<text x="336" y="214" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#ffb300" text-anchor="start">.stack</text>
+<text x="466" y="214" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#8a8a8a" text-anchor="start">:</text>
+<text x="480" y="214" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#bb86fc" text-anchor="start">Python · C++ · Java · FastAPI · Ollama · scikit-learn</text>
+<rect x="320" y="252" width="660" height="104" fill="#0d0d0d" rx="4"/>
+<rect x="320" y="252" width="660" height="30" fill="#111111" rx="4"/>
+<line x1="320" y1="282" x2="980" y2="282" stroke="#1a1a1a" stroke-width="1"/>
+<text x="336" y="272" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="14" font-weight="700" letter-spacing="1" fill="#4fc3f7" text-anchor="start">CURRENT_BUILD</text>
+<text x="336" y="298" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#ffb300" text-anchor="start">.repository</text>
+<text x="466" y="298" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#8a8a8a" text-anchor="start">:</text>
+<text x="480" y="298" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#bb86fc" text-anchor="start">Stitch-rag</text>
+<text x="336" y="322" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#ffb300" text-anchor="start">.stack</text>
+<text x="466" y="322" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#8a8a8a" text-anchor="start">:</text>
+<text x="480" y="322" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#bb86fc" text-anchor="start">Python · sentence-transformers · Ollama · pytest</text>
+<text x="336" y="346" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#ffb300" text-anchor="start">.updated</text>
+<text x="466" y="346" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#8a8a8a" text-anchor="start">:</text>
+<text x="480" y="346" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#bb86fc" text-anchor="start">2026-11-24</text>
+<rect x="320" y="368" width="660" height="80" fill="#0d0d0d" rx="4"/>
+<rect x="320" y="368" width="660" height="30" fill="#111111" rx="4"/>
+<line x1="320" y1="398" x2="980" y2="398" stroke="#1a1a1a" stroke-width="1"/>
+<text x="336" y="388" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="14" font-weight="700" letter-spacing="1" fill="#4fc3f7" text-anchor="start">GITHUB_TELEMETRY</text>
+<text x="336" y="414" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#ffb300" text-anchor="start">.public_repos</text>
+<text x="466" y="414" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#8a8a8a" text-anchor="start">:</text>
+<text x="480" y="414" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#bb86fc" text-anchor="start">4</text>
+<text x="520" y="414" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#ffb300" text-anchor="start">.top_langs</text>
+<text x="620" y="414" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#8a8a8a" text-anchor="start">:</text>
+<text x="634" y="414" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#bb86fc" text-anchor="start">Python · Java · JavaScript · TypeScript · C++</text>
+<text x="336" y="438" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#ffb300" text-anchor="start">.commits</text>
+<text x="466" y="438" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#8a8a8a" text-anchor="start">:</text>
+<text x="480" y="438" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#bb86fc" text-anchor="start">100+</text>
+<text x="520" y="438" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#ffb300" text-anchor="start">.stars</text>
+<text x="620" y="438" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#8a8a8a" text-anchor="start">:</text>
+<text x="634" y="438" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#bb86fc" text-anchor="start">1+</text>
+<rect x="320" y="460" width="660" height="68" fill="#0d0d0d" rx="4"/>
+<rect x="320" y="460" width="660" height="30" fill="#111111" rx="4"/>
+<line x1="320" y1="490" x2="980" y2="490" stroke="#1a1a1a" stroke-width="1"/>
+<text x="336" y="480" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="14" font-weight="700" letter-spacing="1" fill="#4fc3f7" text-anchor="start">CERTIFICATIONS</text>
+<text x="336" y="506" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#ffb300" text-anchor="start">.status</text>
+<text x="466" y="506" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#8a8a8a" text-anchor="start">:</text>
+<text x="480" y="506" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#00ff41" text-anchor="start">OCI AI Foundations Associate</text>
+<text x="336" y="526" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#ffb300" text-anchor="start">.issuer</text>
+<text x="466" y="526" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#8a8a8a" text-anchor="start">:</text>
+<text x="480" y="526" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#bb86fc" text-anchor="start">Oracle · NPTEL · Coursera · Infosys</text>
+<rect x="320" y="540" width="660" height="80" fill="#0d0d0d" rx="4"/>
+<rect x="320" y="540" width="660" height="30" fill="#111111" rx="4"/>
+<line x1="320" y1="570" x2="980" y2="570" stroke="#1a1a1a" stroke-width="1"/>
+<text x="336" y="560" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="14" font-weight="700" letter-spacing="1" fill="#4fc3f7" text-anchor="start">SPECIALIZATION</text>
+<text x="336" y="588" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="11" font-weight="400" letter-spacing="0.4" fill="#e0e0e0" text-anchor="start">* artificial intelligence</text>
+<text x="556" y="588" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="11" font-weight="400" letter-spacing="0.4" fill="#e0e0e0" text-anchor="start">* retrieval-augmented generation</text>
+<text x="776" y="588" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="11" font-weight="400" letter-spacing="0.4" fill="#e0e0e0" text-anchor="start">* backend engineering</text>
+<text x="336" y="608" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="11" font-weight="400" letter-spacing="0.4" fill="#e0e0e0" text-anchor="start">* predictive analytics</text>
+<text x="556" y="608" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="11" font-weight="400" letter-spacing="0.4" fill="#e0e0e0" text-anchor="start">* data structures &amp; algorithms</text>
+<text x="776" y="608" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="11" font-weight="400" letter-spacing="0.4" fill="#e0e0e0" text-anchor="start">* data engineering</text>
+<rect x="320" y="632" width="660" height="120" fill="#0d0d0d" rx="4"/>
+<rect x="320" y="632" width="660" height="30" fill="#111111" rx="4"/>
+<line x1="320" y1="662" x2="980" y2="662" stroke="#1a1a1a" stroke-width="1"/>
+<text x="336" y="652" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="14" font-weight="700" letter-spacing="1" fill="#4fc3f7" text-anchor="start">ENGINEERING_RADAR</text>
+<text x="336" y="676" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#bb86fc" text-anchor="start">.ai</text>
+<text x="964" y="676" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#8a8a8a" text-anchor="end">85%</text>
+<rect x="336" y="682" width="628" height="8" fill="#1a1a1a" rx="3"/>
+<rect x="336" y="682" width="533" height="8" fill="#00ff41" rx="3"/>
+<text x="336" y="708" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#bb86fc" text-anchor="start">.backend</text>
+<text x="964" y="708" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#8a8a8a" text-anchor="end">78%</text>
+<rect x="336" y="714" width="628" height="8" fill="#1a1a1a" rx="3"/>
+<rect x="336" y="714" width="489" height="8" fill="#00ff41" rx="3"/>
+<text x="336" y="740" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#bb86fc" text-anchor="start">.dsa</text>
+<text x="964" y="740" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#8a8a8a" text-anchor="end">72%</text>
+<rect x="336" y="746" width="628" height="8" fill="#1a1a1a" rx="3"/>
+<rect x="336" y="746" width="452" height="8" fill="#00ff41" rx="3"/>
+<rect x="320" y="764" width="660" height="56" fill="#0d0d0d" rx="4"/>
+<rect x="320" y="764" width="660" height="30" fill="#111111" rx="4"/>
+<line x1="320" y1="794" x2="980" y2="794" stroke="#1a1a1a" stroke-width="1"/>
+<text x="336" y="784" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="14" font-weight="700" letter-spacing="1" fill="#4fc3f7" text-anchor="start">PACKAGE_REGISTRY</text>
+<rect x="336" y="804" width="120" height="20" fill="#111111" stroke="#1a1a1a" stroke-width="1" rx="4"/>
+<rect x="336" y="804" width="40" height="20" fill="#3776ab" rx="4"/>
+<text x="356" y="818" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="9" font-weight="700" letter-spacing="0.4" fill="#fff" text-anchor="middle">pypi</text>
+<text x="406" y="818" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="10" font-weight="400" letter-spacing="0.4" fill="#e0e0e0" text-anchor="middle">stitch-rag</text>
+<rect x="466" y="804" width="120" height="20" fill="#111111" stroke="#1a1a1a" stroke-width="1" rx="4"/>
+<rect x="466" y="804" width="40" height="20" fill="#3776ab" rx="4"/>
+<text x="486" y="818" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="9" font-weight="700" letter-spacing="0.4" fill="#fff" text-anchor="middle">pypi</text>
+<text x="536" y="818" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="10" font-weight="400" letter-spacing="0.4" fill="#e0e0e0" text-anchor="middle">tracr-review</text>
+<rect x="596" y="804" width="120" height="20" fill="#111111" stroke="#1a1a1a" stroke-width="1" rx="4"/>
+<rect x="596" y="804" width="40" height="20" fill="#cb3837" rx="4"/>
+<text x="616" y="818" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="9" font-weight="700" letter-spacing="0.4" fill="#fff" text-anchor="middle">npm</text>
+<text x="666" y="818" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="10" font-weight="400" letter-spacing="0.4" fill="#e0e0e0" text-anchor="middle">@koppisettignanavishnu/cli-tools</text>
+<rect x="320" y="832" width="660" height="68" fill="#0d0d0d" rx="4"/>
+<rect x="320" y="832" width="660" height="30" fill="#111111" rx="4"/>
+<line x1="320" y1="862" x2="980" y2="862" stroke="#1a1a1a" stroke-width="1"/>
+<text x="336" y="852" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="14" font-weight="700" letter-spacing="1" fill="#4fc3f7" text-anchor="start">CONTACT</text>
+<text x="336" y="878" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#8a8a8a" text-anchor="start">LinkedIn</text>
+<text x="420" y="878" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#e0e0e0" text-anchor="start">/in/vishnugnana</text>
+<text x="620" y="878" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#8a8a8a" text-anchor="start">Email</text>
+<text x="680" y="878" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#e0e0e0" text-anchor="start">vishnugnana26@gmail.com</text>
+<text x="336" y="898" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#8a8a8a" text-anchor="start">GitHub</text>
+<text x="420" y="898" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#e0e0e0" text-anchor="start">@KoppisettiGnanaVishnu</text>
+<text x="620" y="898" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#8a8a8a" text-anchor="start">Portfolio</text>
+<text x="680" y="898" font-family="'SFMono-Regular','Cascadia Code','Consolas','Courier New',monospace" font-size="12" font-weight="400" letter-spacing="0.4" fill="#e0e0e0" text-anchor="start">github.com/KoppisettiGnanaVishnu</text>
+</svg>
